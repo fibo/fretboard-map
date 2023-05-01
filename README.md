@@ -1,4 +1,4 @@
-# Fretboard Map
+# Fretboard Map 1.1
 
 ![Fretboard map main view](./public/fretboard-map-App.png)
 
